@@ -1,4 +1,4 @@
-#Group to Space
+# Group to Space
 
 This Humhub module permits once activated to add user groups to a space easily.
 
