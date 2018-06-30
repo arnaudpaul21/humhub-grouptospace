@@ -1,0 +1,9 @@
+{
+  "id": "grouptospace",
+  "name": "Group to space",
+  "description": "Adding groups to space",
+  "keywords": [
+    "invite", "group"
+  ],
+  "version": "1.0"
+}
